@@ -5,3 +5,4 @@ authors = ["ubuntu"]
 edition = "2018"
 
 [dependencies]
+ferris-says = "0.2"
